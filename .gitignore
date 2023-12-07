@@ -1,4 +1,9 @@
 node_modules
+build
 .docusaurus
 .idea
 .vscode
+.DS_Store
+
+learn-terraform-azure/*
+!learn-terraform-azure/main.tf
